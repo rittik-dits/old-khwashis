@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "854005369344",
+    "project_id": "talaash-399c8",
+    "storage_bucket": "talaash-399c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854005369344:android:d9207b3b1f28166d73a6e5",
+        "android_client_info": {
+          "package_name": "com.devant.khwahish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854005369344-lveb1n6n9bbsa9bi869goijdpvg8hjrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devant.khwahish",
+            "certificate_hash": "9c8a155f4bcca8466ee370c36cb17efd266f4945"
+          }
+        },
+        {
+          "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vXrOziTKQ9iefaUrhx6RpNW7DKF65l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854005369344:android:34d843f33ca4099373a6e5",
+        "android_client_info": {
+          "package_name": "com.dits.khwahish_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854005369344-0p0ndp1175rben7lqmg5evv8m38j4rss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dits.khwahish_provider",
+            "certificate_hash": "9c8a155f4bcca8466ee370c36cb17efd266f4945"
+          }
+        },
+        {
+          "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vXrOziTKQ9iefaUrhx6RpNW7DKF65l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854005369344:android:2ee171a32d8c3f0373a6e5",
+        "android_client_info": {
+          "package_name": "com.dits.talaash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854005369344-8950f58akonvb8c6tpg8gis2po4rr434.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dits.talaash",
+            "certificate_hash": "f57cfb1d870e89efd8aadf9e6938a8507256e38c"
+          }
+        },
+        {
+          "client_id": "854005369344-qk3fv0i46891raeh1q6jjcueiohtq6st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dits.talaash",
+            "certificate_hash": "819ef14234717eed229368b75753fbcedaecd419"
+          }
+        },
+        {
+          "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vXrOziTKQ9iefaUrhx6RpNW7DKF65l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854005369344:android:b8d5fa3768e5cae773a6e5",
+        "android_client_info": {
+          "package_name": "com.dits.talaashprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854005369344-kn1p1qjrs2olrud67bkc0i4n9ehlm1be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dits.talaashprovider",
+            "certificate_hash": "819ef14234717eed229368b75753fbcedaecd419"
+          }
+        },
+        {
+          "client_id": "854005369344-v0ea89iv4o806hlbrfno0afokcjfturh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dits.talaashprovider",
+            "certificate_hash": "f57cfb1d870e89efd8aadf9e6938a8507256e38c"
+          }
+        },
+        {
+          "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vXrOziTKQ9iefaUrhx6RpNW7DKF65l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854005369344-edkb0vqf677i4jr5ks995bl13cts6m0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

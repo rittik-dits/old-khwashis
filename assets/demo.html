@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+   <title>Report</title>
+   <meta charset="utf-8">
+   <body>
+      <style>
+         @page {
+         size: A4 portrait;
+         margin: 0;
+         padding: 0;
+         /* change the margins as you want them to be. */
+         }
+         @media print {
+         html,
+         body {
+         width: 25cm;
+         height: 33cm;
+         margin: 0 !important;
+         padding: 5 !important;
+         overflow: hidden;
+         }
+         }
+         body {
+         font-family: sans-serif;
+         margin: 0 auto;
+         height: 33cm;
+         width: 100%;
+         }
+         table {
+         background-position: center;
+         background-repeat: no-repeat;
+         }
+         tr {
+         width: 100%;
+         height: auto;
+         }
+         .marksheetheading {
+         background-color: #010c45 !important;
+         color: #ffffff !important;
+         }
+         .yearheading
+         {
+         background: #063c83 !important;
+         color: #FFF !important;
+         padding: 5px 0px 5px 0px;
+         font-size: 15px;
+         font-weight: 600;
+         letter-spacing: 1px;
+         }
+      </style>
+      <div style="">
+         <!-- =====================code section===================== -->
+         <div style="margin: 40px 0px 0px 0px; width:100%; ">
+            <table style="margin:0px 0px 0px 0px;  width:100%;">
+               <td style="">
+                  <img src="https://firebasestorage.googleapis.com/v0/b/talaash-399c8.appspot.com/o/util%2Fapp_logo.png?alt=media&token=42d1d7bd-f8d3-4f64-93a7-6452facc796d"alt="" style="width: 130px; margin-left:43%;">
+               </td>
+               <tr>
+                  <th style="">
+                     <h2 style="margin: 10px 0px 0px 0px;font-size: 15px;font-weight: 500;padding: 10px 0px 0px 0px;text-align:center; font-weight:700;">
+                        Subscription Bill
+                     </h2>
+                  </th>
+               </tr>
+            </table>
+            <table style="width: 85%; margin: 40px 0px 0px 60px;border: 1px solid #899499;border-collapse: collapse;">
+               <tr>
+                  <th style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     Subscription Amount
+                  </th>
+                  <td style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     {{subscriptionAmount}}
+                  </td>
+               </tr>
+               <tr>
+                  <th style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     IGST/CGST
+                  </th>
+                  <td style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     {{IGST/CGST}}
+                  </td>
+               </tr>
+               <tr>
+                  <th style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     SGST
+                  </th>
+                  <td style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     {{SGST}}
+                  </td>
+               </tr>
+               <tr>
+                  <th style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     Discount
+                  </th>
+                  <td style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     {{discount}}
+                  </td>
+               </tr>
+               <tr>
+                  <th style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     Payable Amount
+                  </th>
+                  <td style="text-align: left;font-size: 11px; padding: 10px 10px 10px 10px;border: 1px solid #000;">
+                     {{payableAmount}}
+                  </td>
+               </tr>
+            </table>
+            <table cellspacing="0" border="0" width="96%" style="width:100%;margin: 0 auto;margin-top: 0px;">
+               <tr>
+                  <th style="">
+                     <h2 style="margin: 10px 0px 0px 30px;font-size: 15px;font-weight: 500;padding: 10px 0px 0px 0px; ">
+                        Congratulation you are now a subscribed user and you can now access other features of the app.
+                     </h2>
+                  </th>
+               </tr>
+            </table>
+         </div>
+         <!-- =====================code section===================== -->
+      </div>
+   </body>
+</html>
